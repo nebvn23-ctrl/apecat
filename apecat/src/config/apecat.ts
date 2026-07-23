@@ -22,9 +22,9 @@ export const SITE = {
 // ----------------------------------------------------------------------------
 export const LINKS = {
   buy: "[BUY_LINK]",
-  x: "[https://x.com/apecatonsol]",
+  x: "https://x.com/apecatonsol",
   telegram: "[TELEGRAM_LINK]",
-  contractAddress: "[6Bf99cDePAaQd44wBvwQZ9zohuEcEtuALGB7936Mpump]",
+  contractAddress: "6Bf99cDePAaQd44wBvwQZ9zohuEcEtuALGB7936Mpump",
 };
 
 /** A link is considered "live" only if it no longer matches its placeholder pattern. */
