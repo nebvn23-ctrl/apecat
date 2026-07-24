@@ -24,7 +24,7 @@ export const LINKS = {
   buy: "[BUY_LINK]",
   x: "https://x.com/apecatonsol",
   telegram: "[TELEGRAM_LINK]",
-  contractAddress: "9fyGPVaD9QRCXLiTrzGbnCtWY1FefwPptY4Ujpp5pump",
+  contractAddress: "89EwtnRmweZuVuBScUj371NkDaLxmRrwvQKfvyZfpump",
 };
 
 /** A link is considered "live" only if it no longer matches its placeholder pattern. */
